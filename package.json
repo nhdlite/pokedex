@@ -1,0 +1,14 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "A template express app that serves up pokemon. I hope to use it as a starting point for other node web server development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Dessert",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

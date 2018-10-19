@@ -1,0 +1,757 @@
+[
+  {
+    "name": "Bulbasaur",
+    "number": 1,
+    "imageUrl": "1_bulbasaur.png"
+  },
+  {
+    "name": "Ivysaur",
+    "number": 2,
+    "imageUrl": "2_ivysaur.png"
+  },
+  {
+    "name": "Venusaur",
+    "number": 3,
+    "imageUrl": "3_venusaur.png"
+  },
+  {
+    "name": "Charmander",
+    "number": 4,
+    "imageUrl": "4_charmander.png"
+  },
+  {
+    "name": "Charmeleon",
+    "number": 5,
+    "imageUrl": "5_charmeleon.png"
+  },
+  {
+    "name": "Charizard",
+    "number": 6,
+    "imageUrl": "6_charizard.png"
+  },
+  {
+    "name": "Squirtle",
+    "number": 7,
+    "imageUrl": "7_squirtle.png"
+  },
+  {
+    "name": "Wartortle",
+    "number": 8,
+    "imageUrl": "8_wartortle.png"
+  },
+  {
+    "name": "Blastoise",
+    "number": 9,
+    "imageUrl": "9_blastoise.png"
+  },
+  {
+    "name": "Caterpie",
+    "number": 10,
+    "imageUrl": "10_caterpie.png"
+  },
+  {
+    "name": "Metapod",
+    "number": 11,
+    "imageUrl": "11_metapod.png"
+  },
+  {
+    "name": "Butterfree",
+    "number": 12,
+    "imageUrl": "12_butterfree.png"
+  },
+  {
+    "name": "Weedle",
+    "number": 13,
+    "imageUrl": "13_weedle.png"
+  },
+  {
+    "name": "Kakuna",
+    "number": 14,
+    "imageUrl": "14_kakuna.png"
+  },
+  {
+    "name": "Beedrill",
+    "number": 15,
+    "imageUrl": "15_beedrill.png"
+  },
+  {
+    "name": "Pidgey",
+    "number": 16,
+    "imageUrl": "16_pidgey.png"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": 17,
+    "imageUrl": "17_pidgeotto.png"
+  },
+  {
+    "name": "Pidgeot",
+    "number": 18,
+    "imageUrl": "18_pidgeot.png"
+  },
+  {
+    "name": "Rattata",
+    "number": 19,
+    "imageUrl": "19_rattata.png"
+  },
+  {
+    "name": "Raticate",
+    "number": 20,
+    "imageUrl": "20_raticate.png"
+  },
+  {
+    "name": "Spearow",
+    "number": 21,
+    "imageUrl": "21_spearow.png"
+  },
+  {
+    "name": "Fearow",
+    "number": 22,
+    "imageUrl": "22_fearow.png"
+  },
+  {
+    "name": "Ekans",
+    "number": 23,
+    "imageUrl": "23_ekans.png"
+  },
+  {
+    "name": "Arbok",
+    "number": 24,
+    "imageUrl": "24_arbok.png"
+  },
+  {
+    "name": "Pikachu",
+    "number": 25,
+    "imageUrl": "25_pikachu.png"
+  },
+  {
+    "name": "Raichu",
+    "number": 26,
+    "imageUrl": "26_raichu.png"
+  },
+  {
+    "name": "Sandshrew",
+    "number": 27,
+    "imageUrl": "27_sandshrew.png"
+  },
+  {
+    "name": "Sandslash",
+    "number": 28,
+    "imageUrl": "28_sandslash.png"
+  },
+  {
+    "name": "Nidoran-f",
+    "number": 29,
+    "imageUrl": "29_nidoran-f.png"
+  },
+  {
+    "name": "Nidorina",
+    "number": 30,
+    "imageUrl": "30_nidorina.png"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": 31,
+    "imageUrl": "31_nidoqueen.png"
+  },
+  {
+    "name": "Nidoran-m",
+    "number": 32,
+    "imageUrl": "32_nidoran-m.png"
+  },
+  {
+    "name": "Nidorino",
+    "number": 33,
+    "imageUrl": "33_nidorino.png"
+  },
+  {
+    "name": "Nidoking",
+    "number": 34,
+    "imageUrl": "34_nidoking.png"
+  },
+  {
+    "name": "Clefairy",
+    "number": 35,
+    "imageUrl": "35_clefairy.png"
+  },
+  {
+    "name": "Clefable",
+    "number": 36,
+    "imageUrl": "36_clefable.png"
+  },
+  {
+    "name": "Vulpix",
+    "number": 37,
+    "imageUrl": "37_vulpix.png"
+  },
+  {
+    "name": "Ninetales",
+    "number": 38,
+    "imageUrl": "38_ninetales.png"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": 39,
+    "imageUrl": "39_jigglypuff.png"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": 40,
+    "imageUrl": "40_wigglytuff.png"
+  },
+  {
+    "name": "Zubat",
+    "number": 41,
+    "imageUrl": "41_zubat.png"
+  },
+  {
+    "name": "Golbat",
+    "number": 42,
+    "imageUrl": "42_golbat.png"
+  },
+  {
+    "name": "Oddish",
+    "number": 43,
+    "imageUrl": "43_oddish.png"
+  },
+  {
+    "name": "Gloom",
+    "number": 44,
+    "imageUrl": "44_gloom.png"
+  },
+  {
+    "name": "Vileplume",
+    "number": 45,
+    "imageUrl": "45_vileplume.png"
+  },
+  {
+    "name": "Paras",
+    "number": 46,
+    "imageUrl": "46_paras.png"
+  },
+  {
+    "name": "Parasect",
+    "number": 47,
+    "imageUrl": "47_parasect.png"
+  },
+  {
+    "name": "Venonat",
+    "number": 48,
+    "imageUrl": "48_venonat.png"
+  },
+  {
+    "name": "Venomoth",
+    "number": 49,
+    "imageUrl": "49_venomoth.png"
+  },
+  {
+    "name": "Diglett",
+    "number": 50,
+    "imageUrl": "50_diglett.png"
+  },
+  {
+    "name": "Dugtrio",
+    "number": 51,
+    "imageUrl": "51_dugtrio.png"
+  },
+  {
+    "name": "Meowth",
+    "number": 52,
+    "imageUrl": "52_meowth.png"
+  },
+  {
+    "name": "Persian",
+    "number": 53,
+    "imageUrl": "53_persian.png"
+  },
+  {
+    "name": "Psyduck",
+    "number": 54,
+    "imageUrl": "54_psyduck.png"
+  },
+  {
+    "name": "Golduck",
+    "number": 55,
+    "imageUrl": "55_golduck.png"
+  },
+  {
+    "name": "Mankey",
+    "number": 56,
+    "imageUrl": "56_mankey.png"
+  },
+  {
+    "name": "Primeape",
+    "number": 57,
+    "imageUrl": "57_primeape.png"
+  },
+  {
+    "name": "Growlithe",
+    "number": 58,
+    "imageUrl": "58_growlithe.png"
+  },
+  {
+    "name": "Arcanine",
+    "number": 59,
+    "imageUrl": "59_arcanine.png"
+  },
+  {
+    "name": "Poliwag",
+    "number": 60,
+    "imageUrl": "60_poliwag.png"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": 61,
+    "imageUrl": "61_poliwhirl.png"
+  },
+  {
+    "name": "Poliwrath",
+    "number": 62,
+    "imageUrl": "62_poliwrath.png"
+  },
+  {
+    "name": "Abra",
+    "number": 63,
+    "imageUrl": "63_abra.png"
+  },
+  {
+    "name": "Kadabra",
+    "number": 64,
+    "imageUrl": "64_kadabra.png"
+  },
+  {
+    "name": "Alakazam",
+    "number": 65,
+    "imageUrl": "65_alakazam.png"
+  },
+  {
+    "name": "Machop",
+    "number": 66,
+    "imageUrl": "66_machop.png"
+  },
+  {
+    "name": "Machoke",
+    "number": 67,
+    "imageUrl": "67_machoke.png"
+  },
+  {
+    "name": "Machamp",
+    "number": 68,
+    "imageUrl": "68_machamp.png"
+  },
+  {
+    "name": "Bellsprout",
+    "number": 69,
+    "imageUrl": "69_bellsprout.png"
+  },
+  {
+    "name": "Weepinbell",
+    "number": 70,
+    "imageUrl": "70_weepinbell.png"
+  },
+  {
+    "name": "Victreebel",
+    "number": 71,
+    "imageUrl": "71_victreebel.png"
+  },
+  {
+    "name": "Tentacool",
+    "number": 72,
+    "imageUrl": "72_tentacool.png"
+  },
+  {
+    "name": "Tentacruel",
+    "number": 73,
+    "imageUrl": "73_tentacruel.png"
+  },
+  {
+    "name": "Geodude",
+    "number": 74,
+    "imageUrl": "74_geodude.png"
+  },
+  {
+    "name": "Graveler",
+    "number": 75,
+    "imageUrl": "75_graveler.png"
+  },
+  {
+    "name": "Golem",
+    "number": 76,
+    "imageUrl": "76_golem.png"
+  },
+  {
+    "name": "Ponyta",
+    "number": 77,
+    "imageUrl": "77_ponyta.png"
+  },
+  {
+    "name": "Rapidash",
+    "number": 78,
+    "imageUrl": "78_rapidash.png"
+  },
+  {
+    "name": "Slowpoke",
+    "number": 79,
+    "imageUrl": "79_slowpoke.png"
+  },
+  {
+    "name": "Slowbro",
+    "number": 80,
+    "imageUrl": "80_slowbro.png"
+  },
+  {
+    "name": "Magnemite",
+    "number": 81,
+    "imageUrl": "81_magnemite.png"
+  },
+  {
+    "name": "Magneton",
+    "number": 82,
+    "imageUrl": "82_magneton.png"
+  },
+  {
+    "name": "Farfetchd",
+    "number": 83,
+    "imageUrl": "83_farfetchd.png"
+  },
+  {
+    "name": "Doduo",
+    "number": 84,
+    "imageUrl": "84_doduo.png"
+  },
+  {
+    "name": "Dodrio",
+    "number": 85,
+    "imageUrl": "85_dodrio.png"
+  },
+  {
+    "name": "Seel",
+    "number": 86,
+    "imageUrl": "86_seel.png"
+  },
+  {
+    "name": "Dewgong",
+    "number": 87,
+    "imageUrl": "87_dewgong.png"
+  },
+  {
+    "name": "Grimer",
+    "number": 88,
+    "imageUrl": "88_grimer.png"
+  },
+  {
+    "name": "Muk",
+    "number": 89,
+    "imageUrl": "89_muk.png"
+  },
+  {
+    "name": "Shellder",
+    "number": 90,
+    "imageUrl": "90_shellder.png"
+  },
+  {
+    "name": "Cloyster",
+    "number": 91,
+    "imageUrl": "91_cloyster.png"
+  },
+  {
+    "name": "Gastly",
+    "number": 92,
+    "imageUrl": "92_gastly.png"
+  },
+  {
+    "name": "Haunter",
+    "number": 93,
+    "imageUrl": "93_haunter.png"
+  },
+  {
+    "name": "Gengar",
+    "number": 94,
+    "imageUrl": "94_gengar.png"
+  },
+  {
+    "name": "Onix",
+    "number": 95,
+    "imageUrl": "95_onix.png"
+  },
+  {
+    "name": "Drowzee",
+    "number": 96,
+    "imageUrl": "96_drowzee.png"
+  },
+  {
+    "name": "Hypno",
+    "number": 97,
+    "imageUrl": "97_hypno.png"
+  },
+  {
+    "name": "Krabby",
+    "number": 98,
+    "imageUrl": "98_krabby.png"
+  },
+  {
+    "name": "Kingler",
+    "number": 99,
+    "imageUrl": "99_kingler.png"
+  },
+  {
+    "name": "Voltorb",
+    "number": 100,
+    "imageUrl": "100_voltorb.png"
+  },
+  {
+    "name": "Electrode",
+    "number": 101,
+    "imageUrl": "101_electrode.png"
+  },
+  {
+    "name": "Exeggcute",
+    "number": 102,
+    "imageUrl": "102_exeggcute.png"
+  },
+  {
+    "name": "Exeggutor",
+    "number": 103,
+    "imageUrl": "103_exeggutor.png"
+  },
+  {
+    "name": "Cubone",
+    "number": 104,
+    "imageUrl": "104_cubone.png"
+  },
+  {
+    "name": "Marowak",
+    "number": 105,
+    "imageUrl": "105_marowak.png"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": 106,
+    "imageUrl": "106_hitmonlee.png"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": 107,
+    "imageUrl": "107_hitmonchan.png"
+  },
+  {
+    "name": "Lickitung",
+    "number": 108,
+    "imageUrl": "108_lickitung.png"
+  },
+  {
+    "name": "Koffing",
+    "number": 109,
+    "imageUrl": "109_koffing.png"
+  },
+  {
+    "name": "Weezing",
+    "number": 110,
+    "imageUrl": "110_weezing.png"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": 111,
+    "imageUrl": "111_rhyhorn.png"
+  },
+  {
+    "name": "Rhydon",
+    "number": 112,
+    "imageUrl": "112_rhydon.png"
+  },
+  {
+    "name": "Chansey",
+    "number": 113,
+    "imageUrl": "113_chansey.png"
+  },
+  {
+    "name": "Tangela",
+    "number": 114,
+    "imageUrl": "114_tangela.png"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": 115,
+    "imageUrl": "115_kangaskhan.png"
+  },
+  {
+    "name": "Horsea",
+    "number": 116,
+    "imageUrl": "116_horsea.png"
+  },
+  {
+    "name": "Seadra",
+    "number": 117,
+    "imageUrl": "117_seadra.png"
+  },
+  {
+    "name": "Goldeen",
+    "number": 118,
+    "imageUrl": "118_goldeen.png"
+  },
+  {
+    "name": "Seaking",
+    "number": 119,
+    "imageUrl": "119_seaking.png"
+  },
+  {
+    "name": "Staryu",
+    "number": 120,
+    "imageUrl": "120_staryu.png"
+  },
+  {
+    "name": "Starmie",
+    "number": 121,
+    "imageUrl": "121_starmie.png"
+  },
+  {
+    "name": "Mr_mime",
+    "number": 122,
+    "imageUrl": "122_mr_mime.png"
+  },
+  {
+    "name": "Scyther",
+    "number": 123,
+    "imageUrl": "123_scyther.png"
+  },
+  {
+    "name": "Jynx",
+    "number": 124,
+    "imageUrl": "124_jynx.png"
+  },
+  {
+    "name": "Electabuzz",
+    "number": 125,
+    "imageUrl": "125_electabuzz.png"
+  },
+  {
+    "name": "Magmar",
+    "number": 126,
+    "imageUrl": "126_magmar.png"
+  },
+  {
+    "name": "Pinsir",
+    "number": 127,
+    "imageUrl": "127_pinsir.png"
+  },
+  {
+    "name": "Tauros",
+    "number": 128,
+    "imageUrl": "128_tauros.png"
+  },
+  {
+    "name": "Magikarp",
+    "number": 129,
+    "imageUrl": "129_magikarp.png"
+  },
+  {
+    "name": "Gyarados",
+    "number": 130,
+    "imageUrl": "130_gyarados.png"
+  },
+  {
+    "name": "Lapras",
+    "number": 131,
+    "imageUrl": "131_lapras.png"
+  },
+  {
+    "name": "Ditto",
+    "number": 132,
+    "imageUrl": "132_ditto.png"
+  },
+  {
+    "name": "Eevee",
+    "number": 133,
+    "imageUrl": "133_eevee.png"
+  },
+  {
+    "name": "Vaporeon",
+    "number": 134,
+    "imageUrl": "134_vaporeon.png"
+  },
+  {
+    "name": "Jolteon",
+    "number": 135,
+    "imageUrl": "135_jolteon.png"
+  },
+  {
+    "name": "Flareon",
+    "number": 136,
+    "imageUrl": "136_flareon.png"
+  },
+  {
+    "name": "Porygon",
+    "number": 137,
+    "imageUrl": "137_porygon.png"
+  },
+  {
+    "name": "Omanyte",
+    "number": 138,
+    "imageUrl": "138_omanyte.png"
+  },
+  {
+    "name": "Omastar",
+    "number": 139,
+    "imageUrl": "139_omastar.png"
+  },
+  {
+    "name": "Kabuto",
+    "number": 140,
+    "imageUrl": "140_kabuto.png"
+  },
+  {
+    "name": "Kabutops",
+    "number": 141,
+    "imageUrl": "141_kabutops.png"
+  },
+  {
+    "name": "Aerodactyl",
+    "number": 142,
+    "imageUrl": "142_aerodactyl.png"
+  },
+  {
+    "name": "Snorlax",
+    "number": 143,
+    "imageUrl": "143_snorlax.png"
+  },
+  {
+    "name": "Articuno",
+    "number": 144,
+    "imageUrl": "144_articuno.png"
+  },
+  {
+    "name": "Zapdos",
+    "number": 145,
+    "imageUrl": "145_zapdos.png"
+  },
+  {
+    "name": "Moltres",
+    "number": 146,
+    "imageUrl": "146_moltres.png"
+  },
+  {
+    "name": "Dratini",
+    "number": 147,
+    "imageUrl": "147_dratini.png"
+  },
+  {
+    "name": "Dragonair",
+    "number": 148,
+    "imageUrl": "148_dragonair.png"
+  },
+  {
+    "name": "Dragonite",
+    "number": 149,
+    "imageUrl": "149_dragonite.png"
+  },
+  {
+    "name": "Mewtwo",
+    "number": 150,
+    "imageUrl": "150_mewtwo.png"
+  },
+  {
+    "name": "Mew",
+    "number": 151,
+    "imageUrl": "151_mew.png"
+  }
+]
